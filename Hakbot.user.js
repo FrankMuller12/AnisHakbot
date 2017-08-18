@@ -2,7 +2,7 @@
 //@name         RU Bot
 //@namespace    http://tampermonkey.net/
 //@version      1.3
-//@description  Make RU great Again
+//@description  Make RU great Again!
 //@updateURL    https://raw.githubusercontent.com/rapupdate/AnisHakbot/master/Hakbot.user.js
 //@downloadURL  https://raw.githubusercontent.com/rapupdate/AnisHakbot/master/Hakbot.user.js
 //@author       You
